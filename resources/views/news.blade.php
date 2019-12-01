@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -86,11 +87,10 @@
 
                 <div class="links">
                     
-                    <a href="https://laracasts.com">Home</a>
+                <a href="https://laracasts.com">Home</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Login</a>
-                    
                 </div>
             </div>
         </div>
